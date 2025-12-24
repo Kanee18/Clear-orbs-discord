@@ -101,3 +101,5 @@ For quests that require streaming:
 
 ⚠️ **Use at your own risk.** This tool manipulates Discord's internal APIs and may violate Discord's Terms of Service.
 
+---
+
