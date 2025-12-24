@@ -6,7 +6,7 @@ A desktop application for automating Discord Quest completion.
 
 ## Installation
 
-1. Download the latest release from [Releases](https://github.com/YOUR_USERNAME/clear-orbs/releases)
+1. Download the latest release from [Releases](https://github.com/Kanee18/Clear-orbs-discord/releases/tag/v1.0.0)
 2. Choose your preferred version:
    - **`Clear Orbs Setup 1.0.0.exe`** - Installer (recommended)
    - **`ClearOrbs-Portable.exe`** - Portable version (no installation needed)
