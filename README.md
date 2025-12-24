@@ -2,37 +2,15 @@
 
 A desktop application for automating Discord Quest completion.
 
-## Features
-
-- 🎮 Embedded Discord interface
-- 🔍 Quest detection and selection
-- ⚡ Automatic quest completion
-- 📊 Real-time progress tracking with countdown timer
-- 🎨 Modern dark theme UI
-
-## Supported Quest Types
-
-- ✅ Watch Video
-- ✅ Watch Video on Mobile (can complete on Desktop)
-- ✅ Play on Desktop (15 min gameplay)
-- ✅ Stream on Desktop
+![Preview](preview.png)
 
 ## Installation
 
-```bash
-# Install dependencies
-npm install
-
-# Run in development mode
-npm start
-```
-
-## Building
-
-```bash
-# Build for Windows
-npm run build:win
-```
+1. Download the latest release from [Releases](https://github.com/YOUR_USERNAME/clear-orbs/releases)
+2. Choose your preferred version:
+   - **`Clear Orbs Setup 1.0.0.exe`** - Installer (recommended)
+   - **`ClearOrbs-Portable.exe`** - Portable version (no installation needed)
+3. Run the application and login to Discord
 
 ## Usage Guide
 
