@@ -101,10 +101,3 @@ For quests that require streaming:
 
 ⚠️ **Use at your own risk.** This tool manipulates Discord's internal APIs and may violate Discord's Terms of Service.
 
-## Credits
-
-Based on [aamiaa's Discord Quest script](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb)
-
-## License
-
-MIT
